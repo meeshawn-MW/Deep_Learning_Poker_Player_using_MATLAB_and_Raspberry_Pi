@@ -1,5 +1,8 @@
 [![View Deep_Learning_Poker_Player_using_MATLAB_and_Raspberry_Pi on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75018-deep_learning_poker_player_using_matlab_and_raspberry_pi)
 
+# Prerequisite
+Configure the Raspberry Pi network, using the hardware-setup screen. During the this process, ensure that you download the MathWorks Raspbian image for deep learning.
+
 # Deep_Learning_Poker_Player_using_MATLAB_and_Raspberry_Pi
 This package includes MATLAB scripts that help you design a poker player using MATLAB, Deep Learning, and Raspberry Pi. 
 The poker-playing algorithm consists of a deep learning network that predicts the cards, and a custom MATLAB algorithm that
